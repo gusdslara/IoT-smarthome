@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.pio/
+platformio-build.log
+.venv/
+__pycache__/
+*.py[cod]
+.env
+secrets.h
+*.crt
+*.key
+.DS_Store
+.idea/
+.vscode/
+data/
+

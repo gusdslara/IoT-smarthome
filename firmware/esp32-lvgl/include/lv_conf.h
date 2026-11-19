@@ -1,0 +1,7 @@
+#pragma once
+#define LV_COLOR_FORMAT_DEFAULT LV_COLOR_FORMAT_RGB565
+#define LV_USE_LOG 0
+#define LV_USE_OS LV_OS_NONE
+#define LV_USE_THEME_DEFAULT 1
+#define LV_FONT_MONTSERRAT_14 1
+#define LV_FONT_DEFAULT &lv_font_montserrat_14
